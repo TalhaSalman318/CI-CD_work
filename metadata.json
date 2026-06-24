@@ -1,0 +1,6 @@
+{
+  "name": "Weather Dashboard",
+  "description": "A responsive React Weather Dashboard that displays current weather conditions, search statistics, and forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
